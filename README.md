@@ -14,6 +14,3 @@
   </a>
 </div>
 
-## Favorite LGTM
-![LGTM](https://image.lgtmoon.dev/508796)
-
