@@ -2,7 +2,7 @@
 
 - 🧑‍💻 I’m **aphlo**
 - 🌏 Based in Tokyo, Japan
-- ⚙️ Interests: TypeScript / Flutter / Spring Boot / AWS / GCP
+- ⚙️ Interests: TypeScript / Flutter / Go / AWS / GCP
 
 ## Stats
 <div style="display: flex; gap: 20px;">
