@@ -5,7 +5,7 @@
 - ⚙️ Interests: TypeScript / Flutter / Go / AWS / GCP
 
 ## Stats
-<div style="display: flex; flex-direction: column; gap: 30px;">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 30px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="178" src="https://github-readme-stats-clone-4ntg.vercel.app/api?username=aphlo&show_icons=true&count_private=true&custom_title=aphlo%27s%20Github%20Stats&theme=ambient_gradient" />
   </a>
